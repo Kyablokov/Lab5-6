@@ -42,8 +42,23 @@ cmake -G "MinGW Makefiles" ..
 mingw32-make
 .\library.exe
 ```
+***Примеры использования***
+
+ADD NEW BOOK
+Enter title: Cool
+Enter author: Ivan
+Enter year: 1949
+Enter ISBN: 12345-12345
+Success
 
 
+---BOOKS---
+BOOK
+Title: Cool
+Автор: 
+Year: 1949
+ISBN: 912345-12345
+Is available
 ***Реализованные функции***
 
 Управление книгами:
